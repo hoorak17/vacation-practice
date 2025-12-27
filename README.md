@@ -179,14 +179,3 @@ git push -u origin main
 - 프로젝트당 `.git`은 하나만 존재해야 한다
 
 ---
-
-## 핵심 요약 (암기용)
-- **최초 GitHub 업로드**  
-  `git init → git add → git commit → git remote → git push`
-- **GitHub에서 내려받기**  
-  `git clone`
-- **업데이트 올리기**  
-  `git add → git commit → git push`
-- **최신 내용 받기**  
-  `git pull`
-- **repo 안에서 clone 금지**
