@@ -91,12 +91,6 @@ git remote -v
 
 ### 7️⃣ GitHub로 최초 업로드
 ```bash
-git push origin master
-```
-
-- `master` 자리에 **브랜치 이름**이 들어간다
-- 기본 브랜치가 `main`이면:
-```bash
 git push origin main
 ```
 
